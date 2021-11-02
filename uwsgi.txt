@@ -1,0 +1,20 @@
+uwsgi is the glue between the app and web server (international standard)
+
+nginx is a webserver that does https
+
+dockerfile starts up program
+
+ini file specifys what program to start
+and other configurations like what socket
+
+dockercompose contains services (domain names)
+ex: ngninx and flask
+
+dont want to rebuild container everytime you want to test a program
+
+linting is used for almost all languages, checks for style and defects (logical or in naming) in the program
+makes sure that your code is on point and conforms to the standard of writing code
+
+travis takes code and tests it and see if the code passes includes error messages and see if you were linting 
+if passes gives green badge
+

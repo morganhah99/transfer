@@ -1,0 +1,41 @@
+TERMINAL
+pwd
+ls
+cd
+mkdir
+mv
+touch
+vi
+
+GIT
+git init
+git add <filename> ("." includes all files)
+git commit -m <message describing commit>
+git checkout (-b) <branch> (-b makes new branch and switches to it)
+git push <remote> <branch>
+mkdir <directory_name> (makes a new directory)
+cd <directory_name> (changes directory)
+
+DOCKER
+docker compose up
+docker compose down
+docker ps (lists the running containers and also IP addresses)
+docker kill <container id> (shuts down the container)
+docker rm (removes a container)
+docker kill $(docker ps -q) ---> (kills all running containers)
+docker rm $(docker ps -a -q) ---> (deletes all containers that are not running)	
+docker ps -a -q (deletes all stopped containers)
+docker image rm <image name> (deletes image)
+docker rename <old_container_name> <new_name> (renames container)
+docker inspect <container_name>
+docker pull <image_name> (fetches image from docker registry and saves it locally)
+docker run <image_name> (executes a docker container based on the image)
+docker context show (tells you what computer system you're on)
+docker context use <name_of_context> (switches to whatever name of context)
+docker stop <container_namer> (stops web server)
+docker prune (releases resources that have been allocated for container groups)
+
+"context" determines what computer system you're dealing with (ex: local computer(default) or azurecloud)
+-a is short for -all (lists all containers, not just running ones)
+-s is short for --size(lists the size for each container)
+-d is short for --detach (starts container in background and keeps running)

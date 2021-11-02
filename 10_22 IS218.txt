@@ -1,0 +1,36 @@
+object class contains the blue print of the class object.
+when you instantiate it, it builds a copy of the class object
+whenever you instantiate a class it takes up memory
+
+static could be a class, method, or a property
+static class is more like a bag that holds functions in order to organize your program
+but doesnt get instantiated 
+a static is a global thing 
+functions inside of a class or called methods 
+ex: result = 0 is a property
+
+if its a noun or pronoun, its an object class
+if its a verb, its a static class
+
+the calculator class will be a static.
+inside of it, it will perform calculations
+
+if you want to see history of calculations, each calculation will be stored 
+in memory with each of them being an instance of the class 
+
+static methods are used to do the verb part like calculating 
+object class methods instantiate the object with the result of the calculation
+
+calling method - add 
+call method - adding
+
+function or method should only do one thing.
+the reasoning is you could just re use old functions you created in the past, if it does more than one thing 
+its harder to test and reuse in the future
+
+do one function at a time, be methodical
+tests the results of the output, not how you get the result 
+
+when youre writing an object oriented program, is what im trying to do an action or a thing?
+ex: is addition a thing or action? Action
+ex: is a calculator a thing or action? Thing 
