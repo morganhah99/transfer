@@ -33,7 +33,7 @@ docker run <image_name> (executes a docker container based on the image)
 docker context show (tells you what computer system you're on)
 docker context use <name_of_context> (switches to whatever name of context)
 docker stop <container_namer> (stops web server)
-docker prune (releases resources that have been allocated for container groups)
+docker system prune (releases resources that have been allocated for container groups)
 
 "context" determines what computer system you're dealing with (ex: local computer(default) or azurecloud)
 -a is short for -all (lists all containers, not just running ones)
