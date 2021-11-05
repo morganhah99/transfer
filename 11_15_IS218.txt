@@ -1,0 +1,18 @@
+def my_sum(*args):
+	result = 0
+	for x in args:
+		result += x
+	return reuslt 
+
+*args will accept any number of parameters and convert them into a tuple
+and that tuple can be iterated over 
+
+def concatenate(**kwargs):
+	result = ""
+	for arg in kwargs.values():
+		result += arg
+return result 
+
+**kwargs takes any number of parameters, and turns them into a dictionary
+a dictionary is an unordered and mutuable python container that stores mappings 
+of unique keys to values
