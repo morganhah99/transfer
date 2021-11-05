@@ -16,3 +16,7 @@ return result
 **kwargs takes any number of parameters, and turns them into a dictionary
 a dictionary is an unordered and mutuable python container that stores mappings 
 of unique keys to values
+
+tuple is a list that cant be changed (cant add to it or modify values)
+
+a list is a list of items with integer keys that can be changed
