@@ -1,0 +1,5 @@
+basic principles
+solid 
+design patterns
+testing 
+4 legs of programming  

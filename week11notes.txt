@@ -1,0 +1,19 @@
+high level vision will be the end product
+transforms the way volleyball players experience playing 
+who and what is analyzing the key moments 
+
+problem scenario storyboard
+dont need to explain how they met and why they are playing 
+
+should design for an intermediate player that would use the app 
+make problem scenarios more realistic ex: player fucks up, someone else makes a remark instead of giving advice
+think about how people in real life play volleyball
+
+dont generate solutions for the problem scenarios
+just identify relevant problems that people may experience
+
+activity scenario has the solution
+ex: in problem scenario, Matthew had fun playing volleyball and wished he recorded so his friends could see
+in activity scenario, Matthew used the app and recorded and sent it to his friends
+
+make wireframes more general
