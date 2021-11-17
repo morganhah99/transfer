@@ -1,0 +1,19 @@
+high-level vision:
+	- media is inherently "sharable" 
+ 	- change the experience of playing, not the way they use technology
+ 
+personas: 
+	- make it realistic, add personality
+	- smell test
+
+storyboard: 
+	- don't need to magically have the personas meet
+	- there are certain things that people do that are good or bad, describe them
+	- do we need all personas together? or do we do problem scenario based on individual experience of persona
+	- problem scenarios aren't supposed to be manipulated for a specific problem, write about what actually happens
+	- this is the normal social process and we want to intervene with the app
+	- explain specific moves like "ankle breaker" that may occur in problem scenario
+
+claims analysis: 
+	- include something that happened in the problem scenario like an incident
+
