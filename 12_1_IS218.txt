@@ -1,0 +1,5 @@
+copy paste docker compose file
+
+all pages use the base.html file as a template
+sub pages must import the base for it to use it
+lines in the subpage that contain, "block content" is where the content gets injected into the base.html file
