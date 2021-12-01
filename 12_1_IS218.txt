@@ -3,3 +3,7 @@ copy paste docker compose file
 all pages use the base.html file as a template
 sub pages must import the base for it to use it
 lines in the subpage that contain, "block content" is where the content gets injected into the base.html file
+the base contains a function that calculates the correct 'url' for images 
+
+(hw for friday)
+take the home page to be the base and index, add a menu to the project for the form
