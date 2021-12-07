@@ -1,0 +1,7 @@
+how to get calc2 working with pytest, pylint, and pandas:
+configure configuration with docker compose yml file 
+configure interpretor with docker calc2/docker-compose.yml
+run pip install -r requirements.txt
+pip install pytest
+pip install pylint 
+pip install pandas
