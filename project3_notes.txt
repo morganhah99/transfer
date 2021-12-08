@@ -1,0 +1,12 @@
+how to combine the projects: (specifically parts 3 and 4)
+the csv file is almost like history
+should add a method to get the history into dictionaries, and send it with the template
+dont store results from calculations
+tuple is a collection comma separated values just like a regular csv file:
+	use csv like a tuple(not sure if possible)
+	
+Steps:
+Calculator History is a list:
+1. Add a method to the calculator that writes the history to csv file
+2. Add a method to the calculator that reads the csv file and puts it into history
+3. When post request comes in, read the csv file into the dictionary of calculator history
