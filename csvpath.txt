@@ -1,0 +1,2 @@
+use the directory for the pycharm project (tests/additiontest)
+use directory for pandas path 
